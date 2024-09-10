@@ -55,6 +55,9 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="02.GameObject\07.Test2">
+      <UniqueIdentifier>{34605922-a4a5-4dc0-89c3-df409711850a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -111,6 +114,9 @@
     <ClInclude Include="..\Header\TestClass.h">
       <Filter>02.GameObject\06.testFilter</Filter>
     </ClInclude>
+    <ClInclude Include="..\Header\Test2.h">
+      <Filter>02.GameObject\07.Test2</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyClient.cpp">
@@ -154,6 +160,9 @@
     </ClCompile>
     <ClCompile Include="..\Code\TestClass.cpp">
       <Filter>02.GameObject\06.testFilter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Test2.cpp">
+      <Filter>02.GameObject\07.Test2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
