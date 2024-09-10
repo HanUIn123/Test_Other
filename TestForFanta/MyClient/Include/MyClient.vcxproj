@@ -155,6 +155,7 @@
     <ClInclude Include="..\Header\SkyBox.h" />
     <ClInclude Include="..\Header\Stage.h" />
     <ClInclude Include="..\Header\Terrain.h" />
+    <ClInclude Include="..\Header\Test.h" />
     <ClInclude Include="..\Header\TestClass.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="MyClient.h" />
@@ -174,6 +175,7 @@
     <ClCompile Include="..\Code\SkyBox.cpp" />
     <ClCompile Include="..\Code\Stage.cpp" />
     <ClCompile Include="..\Code\Terrain.cpp" />
+    <ClCompile Include="..\Code\Test.cpp" />
     <ClCompile Include="..\Code\TestClass.cpp" />
     <ClCompile Include="MyClient.cpp" />
     <ClCompile Include="pch.cpp">
