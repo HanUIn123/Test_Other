@@ -156,6 +156,7 @@
     <ClInclude Include="..\Header\Stage.h" />
     <ClInclude Include="..\Header\Terrain.h" />
     <ClInclude Include="..\Header\Test2.h" />
+    <ClInclude Include="..\Header\Test.h" />
     <ClInclude Include="..\Header\TestClass.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="MyClient.h" />
@@ -176,6 +177,7 @@
     <ClCompile Include="..\Code\Stage.cpp" />
     <ClCompile Include="..\Code\Terrain.cpp" />
     <ClCompile Include="..\Code\Test2.cpp" />
+    <ClCompile Include="..\Code\Test.cpp" />
     <ClCompile Include="..\Code\TestClass.cpp" />
     <ClCompile Include="MyClient.cpp" />
     <ClCompile Include="pch.cpp">
